@@ -1,7 +1,7 @@
 ### instructions for running test tasks:
 
 
-###First task
+### First task
 **Build and run:**
 1. CMakeLists.txt located in task1/src
 2. To build programm use follow command
