@@ -4,7 +4,7 @@
 ### First task
 **Build and run:**
 1. CMakeLists.txt located in task1/src
-2. To build programm use follow command
+2. To build program use follow command
 ```
 ~/test_task_c-/task1$ cmake src
 ~/test_task_c-/task1$ make
