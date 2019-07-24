@@ -38,7 +38,7 @@ Thread 9
 
 ### Second task
 **Build and run:**
-. CMakeLists.txt located in task2
+1. CMakeLists.txt located in task2
 
 2. To build program use follow command
 ```
